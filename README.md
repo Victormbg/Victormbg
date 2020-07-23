@@ -1,3 +1,7 @@
 ### Hi there 👋
 
-<script src="https://profile.codersrank.io/widget/widget.js"></script>
+<body>
+  ...
+  <!-- insert script here -->
+  <script src="https://profile.codersrank.io/widget/widget.js"></script>
+</body>
