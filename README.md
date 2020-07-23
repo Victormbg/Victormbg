@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+```javascript
+<script src="https://profile.codersrank.io/widget/widget.js"></script>
+```
