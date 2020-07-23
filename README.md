@@ -1,6 +1,6 @@
 ### Hello there!!! 👋
-<img src="https://media1.tenor.com/images/3ad78457ce76be8ff1b3392382d49a70/tenor.gif" height="100"
-width="100">
+<img src="https://media1.tenor.com/images/3ad78457ce76be8ff1b3392382d49a70/tenor.gif" height="300"
+width="300">
 <a href="https://dev.to/victormbg">
 <img
 src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"
