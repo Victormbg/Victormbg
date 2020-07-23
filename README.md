@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="center">
 <h3>Redes Sociais</h3>
 <a href="https://dev.to/victormbg">
 <img
@@ -26,7 +26,7 @@ width="60"
 </a>
 <a href="https://github.com/Victormbg">
 <img
-src="img/git.svg"
+src="https://img2.gratispng.com/20180716/tza/kisspng-github-computer-icons-clip-art-gits-5b4d20ab1f4131.145288281531781291128.jpg"
 height="60"
 width="60"
 />
