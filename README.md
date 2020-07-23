@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center">
+<center>
 <h3>Redes Sociais</h3>
 <a href="https://dev.to/victormbg">
 <img
@@ -31,4 +31,4 @@ height="60"
 width="60"
 />
 </a>
-</p>
+</center>
