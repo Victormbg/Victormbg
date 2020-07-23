@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<body>
-  ...
-  <!-- insert script here -->
-  <script src="https://profile.codersrank.io/widget/widget.js"></script>
-</body>
+<codersrank-widget
+  username="victormbg"
+  layout="vertical"
+  badges="2"
+></codersrank-widget>
