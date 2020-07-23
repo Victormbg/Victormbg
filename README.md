@@ -1,7 +1,4 @@
 ### Hi there 👋
 
-<codersrank-widget
-  username="victormbg"
-  layout="vertical"
-  badges="2"
-></codersrank-widget>
+http://github.com - automatic!
+[GitHub](http://github.com)
