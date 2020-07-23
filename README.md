@@ -9,24 +9,25 @@ height="60"
 width="60"
 />
 </a>
-	  <a href="https://www.linkedin.com/in/victor-manuel-373482164/">
-        <img
-          src="img/linkedin.png"
-          height="60"
-          width="60"
-        />
-	  </a>
-	  <a href="https://web.facebook.com/victor.manuel.134">
-        <img
-          src="img/face.png"
-          height="60"
-          width="60"
-        />
-	  </a>
-	  <a href="https://github.com/Victormbg">
-        <img
-          src="img/git.svg"
-          height="60"
-          width="60"
-        />
-      </a>
+
+<a href="https://www.linkedin.com/in/victor-manuel-373482164/">
+<img
+src="img/linkedin.png"
+height="60"
+width="60"
+/>
+</a>
+<a href="https://web.facebook.com/victor.manuel.134">
+<img
+src="img/face.png"
+height="60"
+width="60"
+/>
+</a>
+<a href="https://github.com/Victormbg">
+<img
+src="img/git.svg"
+height="60"
+width="60"
+/>
+</a>
