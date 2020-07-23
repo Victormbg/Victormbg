@@ -1,6 +1,5 @@
 ### Hi there 👋
-<center>
-<h3>Redes Sociais</h3>
+
 <a href="https://dev.to/victormbg">
 <img
 src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"
@@ -31,4 +30,3 @@ height="60"
 width="60"
 />
 </a>
-</center>
