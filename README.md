@@ -2,7 +2,7 @@
 <img src="https://media1.tenor.com/images/3ad78457ce76be8ff1b3392382d49a70/tenor.gif" height="300"
 width="300">
 
-![Victor github stats](https://github-readme-stats.vercel.app/api?username=Victormbg&hide=commits,prs,issues)
+![Victor github stats](https://github-readme-stats.vercel.app/api?username=Victormbg&hide=contribs,prs,issues)
 
 <a href="https://dev.to/victormbg">
 <img
