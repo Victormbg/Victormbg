@@ -1,6 +1,5 @@
-### Hello there!!! 👋
-<img src="https://media1.tenor.com/images/3ad78457ce76be8ff1b3392382d49a70/tenor.gif" height="300"
-width="300">
+<img src="https://media1.tenor.com/images/3ad78457ce76be8ff1b3392382d49a70/tenor.gif" height="250"
+width="250" style="display: inline">
 
 ![Victor github stats](https://github-readme-stats.vercel.app/api?username=Victormbg&hide=contribs,prs&show_icons=true&theme=dark)
 
@@ -8,8 +7,8 @@ width="300">
 <img
 src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"
 alt="Perfil DEV de Victor Manuel de Barros Garcia"
-height="60"
-width="60"
+height="67"
+width="65"
 />
 </a>
 
