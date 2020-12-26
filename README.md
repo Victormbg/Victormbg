@@ -29,4 +29,4 @@
 
 ## Atividades Recentes
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Victormbg&hide=contribs,prs&show_icons=true&theme=dark" alt="status"/>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victormbg&layout=compact&theme=dark" alt="languages"/>
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victormbg&layout=compact&theme=dark" alt="languages"/>
