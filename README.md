@@ -9,19 +9,22 @@
 ## Entre em contato:
 
 <a href="https://www.linkedin.com/in/victor-manuel-373482164/">
-  <code><img alt="linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="linkedin" width="28" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></code>
 </a>
 
 <a href="mailto:victormbg2000@gmail.com">
-  <code><img alt="gmail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="gmail" width="32" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" /></code>
 </a>
 
 <a href="https://web.facebook.com/victor.manuel.134">
   <code><img alt="Facebook" width="32" src="https://imagepng.org/wp-content/uploads/2017/09/facebook-icone-icon-1.png"/></code>
 </a>
-
 <br/>
 
 ## Atividades Recentes
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Victormbg&hide=contribs,prs&show_icons=true&theme=dark" alt="status"/>
 <img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victormbg&layout=compact&theme=dark" alt="languages"/>
+
+
+
+              
