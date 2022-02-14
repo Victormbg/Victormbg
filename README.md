@@ -4,7 +4,7 @@
 > - Em 2015 comecei meu curso de Hardware – Montagem e Manutenção de Micros, depois meu primeiro trabalho autônomo de montagem e manutenção de computadores.<br><br>
 > - Em 2017 comecei os estudos nos cursos de Técnico em Informatica nas Instituições de ensino Senac RJ e ISERJ/FAETEC.<br><br>
 > -  Em 2019 comecei meu primeiro estagio de TI no ISERJ/FAETEC fazendo as atividades como Montagem e Manutenção de computadores, Instalação de Sistema Operacionais, Help   Desk, Desenvolvimento de sistema de biometria com Arduino, Suporte na infraestrutura de rede, Planejamento e Projetos de Rede, Instalação de servidor PFSense e         Configuração de um servidor Samba4. No mesmo ano de 2019 participei de dois Hackathon: Hacking.Rio 2019 - Segurança, Cybersecurity e IOT e o 2ª Hackathon Escola       Inovadora.<br> <br>
-> - Atualmente sou programador na Prill Tecnologia, cursando Ciência da Computação na UNISUAM.
+> - Atualmente sou Desenvolvedor Pleno I na Prill Tecnologia e cursando Ciência da Computação na UNISUAM.
 
 ## Entre em contato:
 
