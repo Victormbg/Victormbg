@@ -70,18 +70,17 @@ Atualmente, sou Desenvolvedor Pleno II na Prill Tecnologia, onde tenho a oportun
 </div>
 
 ## Redes Sociais
-
 <div align="left">
   <a href="https://www.linkedin.com/in/victor-manuel-373482164/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:victormbg2000@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/victor.manuel.134" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" width="40" height="40" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/victormanuel092000/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" height="40" alt="instagram logo"  />
   </a>
 </div>
