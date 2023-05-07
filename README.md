@@ -71,7 +71,7 @@ Atualmente, sou Desenvolvedor Pleno II na Prill Tecnologia, onde tenho a oportun
 
 ## Redes Sociais
 <div align="left">
-  <a href="https://www.linkedin.com/in/victor-manuel-373482164/" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-garcia-373482164/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:victormbg2000@gmail.com" target="_blank">
