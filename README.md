@@ -11,18 +11,27 @@ Em 2019, dei início a meu primeiro estágio de TI no ISERJ/FAETEC. Nessa posiç
 Atualmente, sou Desenvolvedor Pleno II na Prill Tecnologia, onde tenho a oportunidade de desenvolver minhas habilidades em programação e trabalhar em projetos desafiadores. Além disso, estou cursando Ciência da Computação na UNISUAM, buscando ampliar ainda mais meus conhecimentos e consolidar minha carreira na área de TI.</p>
 
 ## Estatísticas
-
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <div style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=Victormbg" height="200" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=Victormbg&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true&disable_animations=false" height="200" alt="stats graph"  />
   </div>
+  <br/>
   <div style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=500&langs_count=20&theme=dracula&hide_border=false&username=Victormbg" height="200" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victormbg&layout=compact&card_width=445&langs_count=15&theme=dracula&hide_border=false&locale=pt-br" height="200" alt="languages graph"  />
+  </div>
+</div>
+<br/>
+<div align="center" style="display: flex; flex-wrap: wrap;">
+  <div style="width: 33%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victormbg&theme=dracula" height="180" alt="github stats graph"  />
+  </div>
+  <br/>
+  <div style="width: 33%;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Victormbg&theme=dracula&no-bg=true&no-frame=true" height="180" alt="trophy graph"  />
   </div>
 </div>
 
 ## Tecnologias
-
 <div align="left">
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
