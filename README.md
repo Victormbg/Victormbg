@@ -2,7 +2,7 @@
 
 ###
 <p align="center">
-Meu nome é Victor Manuel de Barros Garcia, e desde 2015 venho construindo minha carreira no campo da tecnologia da informação. Iniciei meu percurso acadêmico com o curso de Hardware - Montagem e Manutenção de Micros, onde adquiri conhecimentos sólidos em relação ao funcionamento e manutenção de computadores.
+Meu nome é Victor Garcia, e desde 2015 venho construindo minha carreira no campo da tecnologia da informação. Iniciei meu percurso acadêmico com o curso de Hardware - Montagem e Manutenção de Micros, onde adquiri conhecimentos sólidos em relação ao funcionamento e manutenção de computadores.
 <br><br>
 Posteriormente, em 2017, dei continuidade aos meus estudos, ingressando nos cursos de Técnico em Informática das instituições de ensino Senac RJ e ISERJ/FAETEC. Durante esse período, aprimorei minhas habilidades em diversas áreas da informática, ampliando meu conhecimento técnico e teórico.
 <br><br>
