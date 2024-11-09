@@ -1,14 +1,17 @@
-<h1 align="left">Um Pouco da Minha História!</h1>
+<h1 align="left">Um Pouco da Minha História</h1>
 
 ###
 <p align="center">
-Meu nome é Victor Garcia, e desde 2015 venho construindo minha carreira no campo da tecnologia da informação. Iniciei meu percurso acadêmico com o curso de Hardware - Montagem e Manutenção de Micros, onde adquiri conhecimentos sólidos em relação ao funcionamento e manutenção de computadores.
+Meu nome é Victor Garcia e, desde 2015, venho construindo minha carreira na área de Tecnologia da Informação. Comecei com o curso de Hardware - Montagem e Manutenção de Micros, onde aprendi os fundamentos de funcionamento e manutenção de computadores.
 <br><br>
-Posteriormente, em 2017, dei continuidade aos meus estudos, ingressando nos cursos de Técnico em Informática das instituições de ensino Senac RJ e ISERJ/FAETEC. Durante esse período, aprimorei minhas habilidades em diversas áreas da informática, ampliando meu conhecimento técnico e teórico.
+Em 2017, dei continuidade aos meus estudos com o Técnico em Informática, no Senac RJ e ISERJ/FAETEC, aprofundando meus conhecimentos técnicos e teóricos. 
 <br><br>
-Em 2019, dei início a meu primeiro estágio de TI no ISERJ/FAETEC. Nessa posição, desempenhei uma série de atividades, tais como montagem e manutenção de computadores, instalação de sistemas operacionais, help desk, desenvolvimento de sistemas de biometria com Arduino, suporte na infraestrutura de rede, planejamento e projetos de rede, instalação de servidor PFSense e configuração de um servidor Samba4. Além disso, nesse mesmo ano, participei de dois Hackathons, o Hacking.Rio 2019 - Segurança, Cybersecurity e IOT e o 2º Hackathon Escola Inovadora, onde tive a oportunidade de colocar em prática todo o conhecimento adquirido durante meus estudos.
+Em 2019, comecei meu primeiro estágio de TI no ISERJ/FAETEC, onde participei de diversas atividades, como montagem e manutenção de computadores, instalação de sistemas operacionais, help desk, desenvolvimento de sistemas com Arduino, suporte a redes, planejamento de infraestrutura e configuração de servidores.
 <br><br>
-Atualmente, sou Desenvolvedor Pleno II na Prill Tecnologia, onde tenho a oportunidade de desenvolver minhas habilidades em programação e trabalhar em projetos desafiadores. Além disso, estou cursando Ciência da Computação na UNISUAM, buscando ampliar ainda mais meus conhecimentos e consolidar minha carreira na área de TI.</p>
+Ainda em 2019, participei de dois Hackathons: o Hacking.Rio 2019, focado em Segurança, Cybersecurity e IoT, e o 2º Hackathon Escola Inovadora, experiências que ampliaram minha visão sobre a área.
+<br><br>
+Sou formado em Ciência da Computação pela UNISUAM, tendo concluído minha graduação no final de 2023. Atualmente, sou Analista de Sistemas Pleno I na Prill Tecnologia, onde continuo me desenvolvendo profissionalmente e colaborando com projetos desafiadores.
+</p>
 
 ## Estatísticas
 <div align="center" style="display: flex; flex-wrap: wrap;">
@@ -69,18 +72,12 @@ Atualmente, sou Desenvolvedor Pleno II na Prill Tecnologia, onde tenho a oportun
   </p>
 </div>
 
-## Redes Sociais
+## Contatos
 <div align="left">
   <a href="https://www.linkedin.com/in/victor-garcia-373482164/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:victormbg2000@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/victor.manuel.134" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" width="40" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/victormanuel092000/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="40" height="40" alt="instagram logo"  />
   </a>
 </div>
